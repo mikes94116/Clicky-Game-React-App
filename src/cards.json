@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "name": "Batman",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
+      "occupation": "Super Hero",
+      "location": "Gotham"
+    },
+    {
+      "id": 2,
+      "name": "Wolverine",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/Marvelwolverine.jpg",
+      "occupation": "Kickin' it... or kickin' butt",
+      "location": "All over"
+    },
+    {
+      "id": 3,
+      "name": "Thanos",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/cd/Thanos_Infinity_4.png",
+      "occupation": "Destroyer",
+      "location": "Titan"
+    },
+    {
+      "id": 4,
+      "name": "Iron Man",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg",
+      "occupation": "Boy Genius",
+      "location": "Malibu"
+    },
+    {
+      "id": 5,
+      "name": "Galactus",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/Galactus_%282018%29.jpg",
+      "occupation": "Destroyer of destroyers",
+      "location": "The Universe"
+    },
+    {
+      "id": 6,
+      "name": "Silver Surfer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Silver_Surfer.jpg",
+      "occupation": "Surfer",
+      "location": "The Cosmos"
+    },
+    {
+      "id": 7,
+      "name": "Black Panther",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Black_Panther_OS_Vol_1_2.png",
+      "occupation": "Hero",
+      "location": "Wakanda"
+    },
+    {
+      "id": 8,
+      "name": "Captain America",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/91/CaptainAmerica109.jpg",
+      "occupation": "Super Hero",
+      "location": "New York"
+    },
+    {
+      "id": 9,
+      "name": "Living Tribunal",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/de/TLT2.png",
+      "occupation": "Judge, Jury, Executioner",
+      "location": "Omnipotent"
+    },
+    {
+      "id": 10,
+      "name": "Cyclops",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Cyclops_%28Marvel_Comics_character%29.jpg",
+      "occupation": "Hero",
+      "location": "X Mansion"
+    },
+    {
+      "id": 11,
+      "name": "Punisher",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Punisher_%28Frank_Castle%29.jpg",
+      "occupation": "Super sick",
+      "location": "America"
+    },
+    {
+      "id": 12,
+      "name": "Captain Marvel",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Generations_Captain_Marvel_%26_Captain_Mar-Vell.jpg",
+      "occupation": "Super Hero",
+      "location": "America"
+    }
+  ]
