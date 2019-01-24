@@ -7,4 +7,4 @@ This app presents different images, and each "reacts" to click events... here's 
 
 The user earns a point when they click on each image, and the images shuffle upon each click... however, their score resets to 0 if the same image is clicked more than once, and which resets the game.
 
-See it here: https://mikes94116.github.io/Clicky-Game-React-App/
+See it here: https://stark-castle-55512.herokuapp.com/
